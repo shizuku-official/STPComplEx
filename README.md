@@ -47,4 +47,4 @@ CUDA_VISIBLE_DEVICES=0 python tkbc/learner.py --dataset gdelt --model STPComplEx
 ```
 
 ## Acknowledgement
-We refer to the code of [TComplEx](https://github.com/facebookresearch/tkbc) and [FTComplEx]([https://github.com/facebookresearch/tkbc](https://github.com/trungnnhcmue/FTPComplEx)). Thanks for their contributions.
+We refer to the code of [TComplEx](https://github.com/facebookresearch/tkbc) and [FTComplEx](https://github.com/trungnnhcmue/FTPComplEx). Thanks for their contributions.
