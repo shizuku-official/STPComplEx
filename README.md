@@ -30,6 +30,7 @@ python tkbc/process_gdelt.py
 ```
 
 This will create the files required to compute the filtered metrics.
+Then you can run `data_view.py` to check the current data structure.
 
 ## Reproducing results
 
